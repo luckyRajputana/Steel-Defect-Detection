@@ -66,7 +66,7 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 [<img target="_blank" src="https://sentry-brand.storage.googleapis.com/sentry-logo-black.png" width=270>](https://www.sentry.io/) [<img target="_blank" src="https://openjsf.org/wp-content/uploads/sites/84/2019/10/jquery-logo-vertical_large_square.png" width=100>](https://jquery.com/)
 
 ## Team
-[![Lucky Chauhan](https://luckyportfolio.herokuapp.com/static/images/mypicture.jpg)](https://rohitswami.com/) |
+[![Lucky Chauhan](https://avatars3.githubusercontent.com/u/46166986?s=460&u=111d083d8da11ea9c84cfd3c26db45749cbc918c&v=4)](https://rohitswami.com/) |
 -|
 [Lucky Chauhan](https://luckyportfolio.herokuapp.com/portfolio/) |)
 
