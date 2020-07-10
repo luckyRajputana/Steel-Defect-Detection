@@ -1,4 +1,4 @@
-# Image Semantic Semgnetation : Steel Defects Tracing
+# Image Semantic Segmentation : Steel Defects Tracing
 
 ## Table of Content
   * [Demo](#demo)
