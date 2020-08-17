@@ -15,7 +15,7 @@ find the defected images but that was not based on machine learning or deep lear
 ## Technical Aspect
 This project is divided into two part:
 1. Training a deep learning model using Tensorflow2.0 using gradient tape.
-2. Building and hosting a Django web app on Heroku.
+2. Building and hosting a Streamlit web app on Heroku.
     - A user can choose image from a device or capture it using a pre-built camera.
     - Used __Amazon S3 Bucket__ to store the uploaded image and predictions.
     - After uploading the image, the predictions are displayed on a __Bar Chart__.
