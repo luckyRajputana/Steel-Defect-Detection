@@ -27,7 +27,7 @@ This project is divided into two part:
 
 [<img target="_blank" src="https://keras.io/img/logo.png" width=200>](https://keras.io/) [<img target="_blank" src="https://miro.medium.com/max/1094/1*-QTg-_71YF0SVshMEaKZ_g.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) [<img target="_blank" src="https://www.kindpng.com/picc/b/301/3012484.png" width=200>](https://aws.amazon.com/s3/) 
 
-[<img target="_blank" src="https://res-3.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco/mjnw24k71dpqmcqg6mno" width=270>]
+[<img target="_blank" src="https://res-3.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco/mjnw24k71dpqmcqg6mno" width=270>](https://www.streamlit.io/)
 
 ## Team
 [![Lucky Chauhan](https://avatars3.githubusercontent.com/u/46166986?s=460&u=111d083d8da11ea9c84cfd3c26db45749cbc918c&v=4)](https://rohitswami.com/) |
