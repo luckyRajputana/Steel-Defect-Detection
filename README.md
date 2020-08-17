@@ -1,27 +1,10 @@
-# Image Semantic Segmentation : Steel Defects Tracing
-
-## Table of Content
-  * [Demo](#demo)
-  * [Overview](#overview)
-  * [Motivation](#motivation)
-  * [Technical Aspect](#technical-aspect)
-  * [Installation](#installation)
-  * [Run](#run)
-  * [Deployement on Heroku](#deployement-on-heroku)
-  * [Directory Tree](#directory-tree)
-  * [To Do](#to-do)
-  * [Bug / Feature Request](#bug---feature-request)
-  * [Technologies Used](#technologies-used)
-  * [Team](#team)
-  * [License](#license)
-  * [Credits](#credits)
+# Image Semantic Segmentation : Steel Defects Detection
   
   ## Demo
-Link: [https://indian-currency-prediction.herokuapp.com](https://indian-currency-prediction.herokuapp.com/)
+Link: [https://www.youtube.com/watch?v=n6ow69X_Iws](https://www.youtube.com/watch?v=n6ow69X_Iws)
 
 ## Overview
-This is a simple image semantic segmentation problem Django app trained on the top of Tensorflow API. The trained model
-(`app/model/model.h5`) takes an image (Defected Steel Image) as an input and predict the class of defect from defect1, defect2, defect3, defect4 
+This is a simple image semantic segmentation problem streamlit app trained on the top of Tensorflow API. The trained models i.e binary model,multilabel model, 4 image segmentation models combinally takes an image (Defected Steel Image) as an input and predict the class of defect from defect1, defect2, defect3, defect4 
 with defected area pixels highlighted.
 
 ## Motivation
@@ -35,28 +18,9 @@ This project is divided into two part:
 2. Building and hosting a Django web app on Heroku.
     - A user can choose image from a device or capture it using a pre-built camera.
     - Used __Amazon S3 Bucket__ to store the uploaded image and predictions.
-    - Used __CSRF Token__ to protect against CSRF attacks.
-    - Used __Sentry__ to catch the exception on the back-end.
     - After uploading the image, the predictions are displayed on a __Bar Chart__.
     
-## Installation
-The Code is written in Python 3.7. If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:
-```bash
-pip install -r requirements.txt
-```
-
-## Deployement on Heroku
-Set the environment variable on Heroku as mentioned in _STEP 1_ in the __Run__ section. [[Reference](https://devcenter.heroku.com/articles/config-vars)]
-
-![](https://i.imgur.com/TmSNhYG.png)
-
-Our next step would be to follow the instruction given on [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python) to deploy a web app.
-
-
-## Directory Tree
-
-## To Do
-
+    
 ## Technologies Used
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
