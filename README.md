@@ -1,7 +1,7 @@
 # Image Semantic Segmentation : Steel Defects Detection
   
   ## Demo
-Link: [https://www.youtube.com/watch?v=n6ow69X_Iws](https://www.youtube.com/watch?v=n6ow69X_Iws)
+Link: [https://www.youtube.com/watch?v=QUOWaZT4XEk&feature=youtu.be](https://www.youtube.com/watch?v=QUOWaZT4XEk&feature=youtu.be)
 
 ![Making-of Animation](https://github.com/luckyRajputana/Steel-Defect-Detection/blob/master/streamlit-SteelDefectDetection-2020-08-16-21-08-26.webm.gif "Making-of Animation")
 
