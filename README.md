@@ -3,6 +3,8 @@
   ## Demo
 Link: [https://www.youtube.com/watch?v=n6ow69X_Iws](https://www.youtube.com/watch?v=n6ow69X_Iws)
 
+![Making-of Animation](https://github.com/luckyRajputana/Steel-Defect-Detection/blob/master/streamlit-SteelDefectDetection-2020-08-16-21-08-26.webm.gif "Making-of Animation")
+
 ## Overview
 This is a simple image semantic segmentation problem streamlit app trained on the top of Tensorflow API. The trained models i.e binary model,multilabel model, 4 image segmentation models combinally takes an image (Defected Steel Image) as an input and predict the class of defect from defect1, defect2, defect3, defect4 
 with defected area pixels highlighted.
